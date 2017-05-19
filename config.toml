@@ -13,6 +13,7 @@ BackgroundImages = [
   "bg/b1920-003.jpg",
   "bg/b1920-004.jpg"
 ]
+Favicon = "favicon.ico"
 BackgroundStyle = "background: #657383;"
 OpenLinksInNewWindow = true
 
