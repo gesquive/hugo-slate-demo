@@ -14,7 +14,7 @@ BackgroundImages = [
   "bg/b1920-004.jpg"
 ]
 Favicon = "favicon.ico"
-BackgroundStyle = "background: #657383;"
+BackgroundStyle = "#657383"
 OpenLinksInNewWindow = true
 
 [[ params.nav ]]
